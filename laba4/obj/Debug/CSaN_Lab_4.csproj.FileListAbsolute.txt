@@ -1,0 +1,28 @@
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/obj/Debug/CSaN_Lab_4.csprojAssemblyReference.cache
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/obj/Debug/CSaN_Lab_4.csproj.CoreCompileInputs.cache
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/bin/Debug/CSaN_Lab_4.exe.config
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/bin/Debug/CSaN_Lab_4.exe
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/bin/Debug/CSaN_Lab_4.pdb
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/obj/Debug/CSaN_Lab_4.exe
+D:/С#/CSaN_Lab_4/CSaN_Lab_4/obj/Debug/CSaN_Lab_4.pdb
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.exe.config
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.exe
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.pdb
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.csprojAssemblyReference.cache
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.csproj.CoreCompileInputs.cache
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.exe
+C:/Users/kadet/Downloads/CSaN_Lab_4-main/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.pdb
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.exe.config
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.exe
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/bin/Debug/CSaN_Lab_4.pdb
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.csprojAssemblyReference.cache
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.csproj.CoreCompileInputs.cache
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.exe
+/Users/kavtunchik/Documents/№4 сем/КСиС/laba4/CSaN_Lab_4-main/obj/Debug/CSaN_Lab_4.pdb
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\bin\Debug\CSaN_Lab_4.exe.config
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\bin\Debug\CSaN_Lab_4.exe
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\bin\Debug\CSaN_Lab_4.pdb
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\obj\Debug\CSaN_Lab_4.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\obj\Debug\CSaN_Lab_4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\obj\Debug\CSaN_Lab_4.exe
+\\Mac\Home\Documents\№4 сем\КСиС\laba4\CSaN_Lab_4-main\obj\Debug\CSaN_Lab_4.pdb
